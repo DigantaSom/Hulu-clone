@@ -32,3 +32,9 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+# configs
+next.config.js
+
+# others
+zz-helper.txt
