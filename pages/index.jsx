@@ -1,6 +1,7 @@
 import Head from 'next/head';
 
 import Header from '../components/Header';
+import Nav from '../components/Nav';
 
 const Home = () => {
   return (
@@ -11,8 +12,7 @@ const Home = () => {
       </Head>
 
       <Header />
-
-      {/* Navbar */}
+      <Nav />
 
       {/* Results */}
     </div>
